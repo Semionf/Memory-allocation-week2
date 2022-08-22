@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HW2.c">
+    <ClCompile Include="HW2_1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HW2_1.c">
+    <ClCompile Include="HW2_2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="HW2_3.c">

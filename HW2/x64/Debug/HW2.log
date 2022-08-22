@@ -1,7 +1,0 @@
-﻿  HW2.c
-  HW2_1.c
-  HW2_3.c
-  Generating Code...
-C:\Users\User\source\repos\HW2\HW2\HW2_1.c(20): warning C4716: 'main2': must return a value
-C:\Users\User\source\repos\HW2\HW2\HW2.c(11): warning C4716: 'main1': must return a value
-  HW2.vcxproj -> C:\Users\User\source\repos\HW2\x64\Debug\HW2.exe

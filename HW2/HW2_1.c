@@ -38,11 +38,12 @@ int* alloc5Numbers(int numbers[])
 
 int printNum(int* numberList) {
 	int sum = 0;
+	int* ptr = numberList;
 	for (int i = 0; i < 5; i++)
 	{
-		sum += *numberList;
-		printf("%d ", *numberList);
-		numberList++;
+		sum += *ptr;
+		printf("%d ", *ptr);
+		ptr++;
 	}
 	return sum;
 }
